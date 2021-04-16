@@ -1,0 +1,16 @@
+.task-list {
+	padding: 2em;
+	color: rgba(0, 0, 0, 0.7);
+}
+
+.task-list-title {
+	font-size: 3rem;
+	margin: 0px;
+	text-align: center;
+}
+
+.task-list-edit-hint {
+	margin: 0;
+	text-align: center;
+	color: rgba(0, 0, 0, 0.3);
+}

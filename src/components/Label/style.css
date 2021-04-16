@@ -1,0 +1,7 @@
+.label {
+	color: rgba(0, 0, 0, 0.8);
+	font-size: 2rem;
+	display: flex;
+	align-items: center;
+	padding: 0.5em;
+}
